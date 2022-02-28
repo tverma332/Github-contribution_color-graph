@@ -1,8 +1,12 @@
 ## Overview
-
-
-
 A Web Extension to change colors of contribution graph in GitHub.
+
+>Steps: 
+1. Go to [Install](#install)
+2. Choose you Browser 
+3. Click to Install
+
+
 
 >Features:
 
