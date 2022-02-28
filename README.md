@@ -1,2 +1,38 @@
-# github-contribution_color-graph
-Change colors of contribution graph in GitHub
+## Overview
+
+
+
+A Web Extension to change colors of contribution graph in GitHub.
+
+>Features:
+
+  * Colorize contribution graph and legend
+  * Colorize activity overview graph
+  * Colorize activity listing progress bar
+
+>Options:
+
+  * GitHub themes
+  * Material Design themes
+  * Random theme
+
+Install
+-------
+
+[link-ch]:https://chrome.google.com/webstore/detail/github-contribution-color/cfilkjdlgdiclmdfdggjommndffiibbe
+[link-ff]:https://addons.mozilla.org/en-US/firefox/addon/github-contribution-color/
+[link-op]:https://addons.opera.com/en/extensions/details/install-chrome-extensions/
+
+  * [**Chrome** extension][link-ch] - [<img valign="middle" src="https://img.shields.io/chrome-web-store/v/cfilkjdlgdiclmdfdggjommndffiibbe.svg?label=%20">][link-ch]
+  * [**Firefox** add-on][link-ff] - [<img valign="middle" src="https://img.shields.io/amo/v/github-contribution-color.svg?label=%20">][link-ff]
+
+## Themes
+---
+ 
+Halloween                           |  Blue
+:----------------------------------:|:--------------------------------------:		
+![Halloween](https://raw.github.com/williambelle/github-contribution-color-graph/master/docs/contributions-halloween.png)|![Blue](https://raw.github.com/williambelle/github-contribution-color-graph/master/docs/contributions-blue.png)
+
+Pink                                |  Unicorn
+:----------------------------------:|:--------------------------------------:		
+![Pink](https://raw.github.com/williambelle/github-contribution-color-graph/master/docs/contributions-pink.png)|![Unicorn](https://raw.github.com/williambelle/github-contribution-color-graph/master/docs/contributions-unicorn.png)
